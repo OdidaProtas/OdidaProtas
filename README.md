@@ -20,7 +20,6 @@ Skills: JAVASCRIPT / JAVA / C# / PYTHON / Mobile (Native - Hybrid) / Web (Client
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=OdidaProtas)  
 
-![GitHub metrics](https://metrics.lecoq.io/OdidaProtas)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=OdidaProtas)  
 
