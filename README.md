@@ -1,3 +1,6 @@
+![I create software.](https://res.cloudinary.com/dreamnerd/image/upload/v1635864807/media/losxp1wfia2yldftdgny.png)
+
+
 <h3 style="color:#darkgray; font-family: 'Bebas Neue';
 font-weight:bold
 " >Personal Information</h3>
@@ -86,7 +89,6 @@ Experienced Full-stack Software Engineer and an expert in multiple server side l
 
 [Buy Liquor](https://ekkymerc.web.app/)
 
-![I create software.](https://res.cloudinary.com/dreamnerd/image/upload/v1635864807/media/losxp1wfia2yldftdgny.png)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=OdidaProtas)](https://github.com/ryo-ma/github-profile-trophy)
