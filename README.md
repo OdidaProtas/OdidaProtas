@@ -83,14 +83,14 @@ Experienced Full-stack Software Engineer and an expert in multiple server side l
 <p style="font-size:1em; font-weight:bold;"  >Nairobi School - High School Certificate</p>
 <p>Kenya Certificate of Secondary Education (KCSE)</p>
 </div>
-<hr/>
+<!-- <hr/> -->
 
-<h3 style="color:#darkgray; font-family: 'Bebas Neue'; margin-top:40px;font-weight:bold" >Work History</h3>
+<!-- <h3 style="color:#darkgray; font-family: 'Bebas Neue'; margin-top:40px;font-weight:bold" >Work History</h3>
 <br/>
 <p>2019 - Present</p>
 <p style="font-size:1em; font-weight:bold;"  >Protus Consulting - Fullstack Software Engineer</p>
 <p>Mobile and Web Application Development, Web Services Development, Automation, AI and  Machine Learning, Cloud and DevOPS, Hardware Programming  </p>
-</div>
+</div> -->
 <hr/>
 
 <h3 style="color:#darkgray; font-family: 'Bebas Neue'; margin-top:40px;font-weight:bold" >Skills</h3>
